@@ -1,0 +1,19 @@
+html, body{
+    height: 100%;
+    font-size: 1rem;
+}
+a.navbar-brand > img {
+    width: 37px;
+    height: 37px;
+}
+.gradient {
+    background: rgb(36,0,13);
+    background: linear-gradient(90deg, rgba(36,0,13,1) 0%, rgba(116,9,121,1) 46%, rgba(176,0,45,1) 100%);
+}
+
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+    
+}
