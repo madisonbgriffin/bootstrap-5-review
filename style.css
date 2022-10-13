@@ -22,3 +22,11 @@ img.first {
     height: 300px;
     width: 400px;
 }
+ img.second {
+     height: 400px;
+     width: 300px;
+ }
+ .feature {
+    color: #fff;
+    
+ }
