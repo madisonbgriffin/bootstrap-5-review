@@ -31,18 +31,20 @@ img.first {
     
  }
 
- .feature ul {
-    padding-left: 2rem;
-    list-style-type: none;
- }
 
- .feature ul li {
-    padding-left: 2rem;
-    background-image: url(Untitled\ design.svg);
-    background-repeat: no-repeat;
-    line-height: 1.5rem;
-    margin-bottom: 1rem;
- }
+.feature ul {
+   padding-left: 2rem;
+   list-style-type: none;
+}
+
+.feature ul li {
+   padding-left: 2rem;
+   background-image: url(star-regular.svg);
+   background-repeat: no-repeat;
+   line-height: 1.5rem;
+   margin-bottom: 1rem;
+}
+
  .icon {
     color: #fff;
     height:5rem;
@@ -77,6 +79,30 @@ img.first {
     font-size: 1rem;
     margin: 0;
     padding: 1rem;
-
  }
  
+ .eliza {
+   height: 555px;
+ }
+  img.friends {
+   height: 350px;
+   width: 262px;
+   border-radius: 3%;
+  }
+
+  img.awards {
+   height: 340px;
+   width: 400px;
+   border-radius: 3%;
+  }
+
+  img.ppf {
+   height: 350px;
+   width: 350px;
+   border-radius: 3%;
+  }
+
+   img.flex {
+      height: 300px;
+      width: 280px;
+   }
