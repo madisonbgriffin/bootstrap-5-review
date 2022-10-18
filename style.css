@@ -4,8 +4,8 @@ html, body{
     font-family: 'Montserrat', sans-serif;
 }
 a.navbar-brand > img {
-    width: 37px;
-    height: 37px;
+    width: 45px;
+    height: 39px;
 }
 .gradient {
     background: rgb(184,88,132);
@@ -15,7 +15,7 @@ a.navbar-brand > img {
 .page-header {
     margin-top: 4rem;
     font-size: 1.25rem;
-    color: white;
+    color: rgb(235, 223, 201);
 }
 
 img.first {
@@ -26,9 +26,9 @@ img.first {
      height: 400px;
      width: 300px;
  }
+
  .feature {
-    color: #fff;
-    
+    color: rgb(235, 223, 201);
  }
 
 
@@ -46,7 +46,7 @@ img.first {
 }
 
  .icon {
-    color: #fff;
+    color: rgb(235, 223, 201);
     height:5rem;
     width: 5rem;
     font-size: 1.75rem;
@@ -57,6 +57,7 @@ img.first {
  }
  .gallery {
     background-color: rgb(242, 201, 143);
+    color: rgb(167, 65, 75)
 
  }
  .gallery img {
@@ -67,7 +68,7 @@ img.first {
     width: 240px;
  }
  .services {
-    color: #fff;
+    color: rgb(235, 223, 201);
  }
  .contact img {
     height: 300px;
@@ -75,7 +76,7 @@ img.first {
  }
 
  footer {
-    color: #fff;
+    color: rgb(235, 223, 201);
     font-size: 1rem;
     margin: 0;
     padding: 1rem;
@@ -84,6 +85,7 @@ img.first {
  .eliza {
    height: 555px;
  }
+
   img.friends {
    height: 350px;
    width: 262px;
